@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  GatewayAPISMS
 //
-//  Created by BS-272 on 1/8/19.
-//  Copyright © 2019 BS-272. All rights reserved.
+//  Created by Taif Al Musabe on 1/8/19.
+//  Copyright © 2019 Taif Al Musabe. All rights reserved.
 //
 
 import UIKit
