@@ -1,9 +1,9 @@
 //
 //  GatewayAPIWrapper.swift
-//  nVisionMobile
+//  GatewayAPISMS
 //
-//  Created by BS-272 on 29/7/19.
-//  Copyright © 2019 nSales A/S. All rights reserved.
+//  Created by Taif Al Musabe on 29/7/19.
+//  Copyright © 2019 Taif Al Musabe. All rights reserved.
 //
 
 import UIKit
